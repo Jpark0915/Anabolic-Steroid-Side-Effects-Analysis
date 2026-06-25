@@ -26,7 +26,7 @@ The dataset contains approximately 800 user-reported observations including:
 
 ### Dataset Preview
 
-![Dataset Preview](images/datapreview.png)
+![Dataset Preview](datapreview.png)
 
 ---
 
@@ -34,15 +34,15 @@ The dataset contains approximately 800 user-reported observations including:
 
 ### Most Common Reasons for Steriod Abuse 
 
-![Side Effects](images/Abusereason.png)
+![Common Reasons](Abusereason.png)
 
 ### Prevelant Side Effects
 
-![Motivations](images/Prevelantsideeffect.png)
+![Side Effects](Prevelantsideeffect.png)
 
 ### Top 15 Most Common Side Effects
 
-![Top Compounds](images/Top15.png)
+![Top 15](Top15.png)
 
 ---
 
