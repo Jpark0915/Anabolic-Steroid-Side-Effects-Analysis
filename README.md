@@ -26,7 +26,6 @@ The dataset contains approximately 800 user-reported observations including:
 
 ### Dataset Preview
 
-![Dataset Preview](images/df.headSteroid.png)
 ![Dataset Preview](images/datapreview.png)
 
 ---
