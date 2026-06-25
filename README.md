@@ -24,6 +24,10 @@ The dataset contains approximately 800 user-reported observations including:
 - Usage motivation
 - Experience level
 
+### Dataset Preview
+
+![Dataset Preview](images/dataset_preview.png)
+
 ---
 
 ## Project Workflow
