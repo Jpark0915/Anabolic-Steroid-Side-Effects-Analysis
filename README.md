@@ -1,6 +1,6 @@
 # Anabolic Steroid Side Effects Analysis
 
-## Overview
+## Overview 💊💊
 
 This exploratory data analysis investigates reported anabolic steroid compounds, user motivations, and side effects using Python and Pandas. The goal was to practice data cleaning, exploratory analysis, and visualization while identifying trends within the dataset.
 
@@ -36,7 +36,7 @@ The dataset contains approximately 800 user-reported observations including:
 
 ---
 
-## Key Findings
+## Key Findings 💊💊
 
 - Certain compounds appeared more frequently than others.
 - Cosmetic and performance motivations were the most common.
